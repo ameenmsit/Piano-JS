@@ -1,0 +1,128 @@
+.content{
+    margin:20%;
+}
+.piano{
+    width: 900px;
+    height: 200px;
+}
+
+.mainkey{
+    position: absolute;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 250px 20px 20px 20px;
+    left: 366px;
+    top:142px;
+}
+
+.one{
+    z-index: 50;
+}
+.two{
+    z-index: 51;
+    margin-left: 50px;
+}
+
+.mainkey2{
+    position: absolute;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 51;
+    margin-left: 50px;
+    padding: 250px 20px 20px 20px;
+    left: 369px;
+    top:143px;
+}
+
+.blackkey{
+    position: absolute;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 52;
+    padding: 150px 10px 17px 10px;
+    left: 364px;
+    top:143px;
+    
+}
+.b1{
+    margin-left: 34px;
+}
+
+.b2{
+    margin-left: 86px;
+}
+
+.b3{
+    margin-left: 184px;
+}
+
+.b4{
+    margin-left: 236px;
+}
+
+.b5{
+    margin-left: 288px;
+}
+
+
+.b6{
+    margin-left: 384px;
+}
+
+.b7{
+    margin-left: 436px;
+}
+
+.b8{
+    margin-left: 490px;
+}
+
+
+.three{
+    margin-left: 100px;
+}
+.four{  
+  margin-left: 150px;  
+}
+
+.five{
+    margin-left: 200px;
+}
+
+.six{   
+
+    margin-left: 250px;  
+}
+
+.seven{
+    
+    margin-left: 300px;
+}
+
+.eight{
+   
+    margin-left: 350px;    
+}
+
+.nine{
+  
+    margin-left: 400px;   
+}
+
+.ten{
+    
+    margin-left: 450px;
+}
+
+.eleven{
+    
+    margin-left: 500px;
+}
+.twelve{
+    
+    margin-left: 550px;
+}
